@@ -1,5 +1,19 @@
-p{
-    color: aqua;
-    text-align: center;
-    background-color: brown;
+body{
+    background-image: url(https://wallpapers.com/images/high/light-pink-background-o7xpod19e080jvm0.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
+.crop{
+    padding-left: 20px;
+    margin-left: 50px;
+    width: 350px;
+    height: 350px;
+    background-color: beige;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: tomato;
+
+}
+
